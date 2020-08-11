@@ -1,4 +1,4 @@
-# youtube-go-fiber-introduction
-An introduction to Fiber an express-like library for golang
+# youtube-go-fiber-with-sqlc
+How to add SQLC with Go Fiber
 
 Youtube video: https://youtu.be/MfFi4Gt-tos
